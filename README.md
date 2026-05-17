@@ -24,8 +24,8 @@ En s'appuyant sur les principes de la **Théorie Moderne du Portefeuille slon le
 Le portefeuille actuel est configuré pour analyser une allocation diversifiée de 7 actifs majeurs, comprenant de la Tech US, les semi-conducteurs et le luxe européen :
 * **Actifs étudiés :** `NVDA`, `AAPL`, `AMZN`, `GOOGL`, `MC.PA`, `ASML.AS`, `TSM`.
 * **Paramètre Macroéconomique :** Le taux sans risque (risk free rate) utilisé est de **4.0%**, reflétant les conditions actuelles des obligations d'État de référence.
-**Possibilité de choisir les actifs de votre choix :** Il suffit de remplacer les actifs à l'intérieur de la variable TICKERS à la ligne 27 du fichier main.py par les actifs de votre choix.
-**Possibilité de changer l'allocation des actifs du portefeuille :** Il suffit de remplacer les valeurs présentent dans la variable WEIGHTS à la ligne 36 par les valeurs de votre choix, mais la somme de ses valeurs doit être égale à 1, et il doit y avoir autant de valeurs que d'actifs selectionnés dans la variable TICKERS.
+* **Possibilité de choisir les actifs de votre choix :** Il suffit de remplacer les actifs à l'intérieur de la variable TICKERS à la ligne 27 du fichier main.py par les actifs de votre choix.
+* **Possibilité de changer l'allocation des actifs du portefeuille :** Il suffit de remplacer les valeurs présentent dans la variable WEIGHTS à la ligne 36 par les valeurs de votre choix, mais la somme de ses valeurs doit être égale à 1, et il doit y avoir autant de valeurs que d'actifs selectionnés dans la variable TICKERS.
 
 ---
 
